@@ -2,6 +2,8 @@
 
 *Looking for the org README? You should probably go [here for general info](https://mau.dev/RecapTime/gitlab-profile/blob/readmemain/README.md) and [here for the crew](https://mau.dev/RecapTime/squad/gitlab-profile/blob/main/README.md)*
 
+If you're on GitHub.com, it is on <https://github.com/recaptime-dev/community> but used primarily as [organization discussions](https://github.com/orgs/recaptime-dev/discussions).
+
 ## Where to file tickets/issues?
 
 We compile the places where to file tickets for different purposes, especially project specifics and stuff specific to internal operations of the organization.
@@ -18,7 +20,9 @@ We use this repo's issue tracker to track general organizational work that affec
 
 ### Community
 
-TBD
+We use Zulip for forums-styled community discussions, although GitHub Discussions are available on the following namespaces:
+
+* [Recap Time Squad's main namespace](https://github.com/orgs/recaptime-dev/discussions)
 
 ### Squad Specifics
 
