@@ -1,8 +1,8 @@
 # General organizational work issue tracker for @recaptime-dev/squad
 
-*Looking for the org README? You should probably go [here for general info](https://mau.dev/RecapTime/gitlab-profile/blob/readmemain/README.md) and [here for the crew](https://mau.dev/RecapTime/squad/gitlab-profile/blob/main/README.md)*
+*Looking for the org README? You should probably go [here for general info](https://mau.dev/recaptime-dev/gitlab-profile/blob/main/README.md) and [here for the crew](https://mau.dev/recaptime-dev/squad/gitlab-profile/blob/main/README.md)*
 
-If you're on GitHub.com, it is on <https://github.com/recaptime-dev/community> but used primarily as [organization discussions](https://github.com/orgs/recaptime-dev/discussions).
+If you're on GitHub.com, it is on <https://github.com/recaptime-dev/community> but used primarily as [organization-wide discussions](https://github.com/orgs/recaptime-dev/discussions).
 
 ## Where to file tickets/issues?
 
@@ -27,6 +27,7 @@ We use Zulip for forums-styled community discussions, although GitHub Discussion
 ### Squad Specifics
 
 * Need access to things like the Internal Squad Wiki or even join our tailnet for work? Go to the [Access Requests](https://mau.dev/recaptime-dev/access-requests/issues) issue tracker.
+* Moderation and Trust and Safety teams have using [a seperate issue tracker](https://mau.dev/recaptime-dev/moderation/issue-tracker/issues) for moderation-related issues (for senstive topics, please flag it as confidential)
 
 ### Project-specifics
 
